@@ -1,5 +1,5 @@
 
-# HackatecITZacapetec2022
+# HackatecITZacatepec2022
 
 Este proyecto es una aplicación de una regresión lineal multiple. El proyecto se creó para el hackathon de [HackatecITZacapetec2022].
 
