@@ -1,25 +1,25 @@
 
-# HackatecITZacatepec2022
+# HackatecITZacapetec2022
 
-Este proyecto es una aplicación de una regresión lineal multiple. El proyecto se creó para el hackathon de [HackatecITZacapetec2022].
+This project is an application of multiple linear regression. The project was created for the [HackatecITZacapetec2022] hackathon.
 
 
-## Versión 2.0
-En esta versión, hemos realizado una serie de mejoras al proyecto, incluyendo:
+## Version 2.0
+In this version, we have made a number of improvements to the project, including:
 
-- Hemos reorganizado el código en carpetas para que sea más fácil de navegar.
-- Hemos cambiado los nombres de los archivos
-- Hemos mejorado la precisión del modelo de regresión lineal multiple.
-- Hemos creado una web utilizando Plotly y Dash.
-## Tecnologías
-- Python 3.6 o superior
+- We have reorganized the code into folders to make it easier to navigate.
+- We have changed the file names.
+- We have improved the accuracy of the multiple linear regression model.
+- We have created a website using Plotly and Dash.
+## Technologies
+- Python 3.6 or higher
 - NumPy
 - Pandas
 - Scikit-learn
 - Plotly
 - Dash
 
-## Autores
+## Authors
 
 - [Eric Benitez Castillo](https://github.com/eric-castillo05)
 - [Isai Jesús Tapia Alcazar](https://github.com/IsaiJesus)
@@ -28,38 +28,30 @@ En esta versión, hemos realizado una serie de mejoras al proyecto, incluyendo:
 - [Eduardo Tlacaélel González Díaz](https://github.com/eric-castillo05/HackatecITZacapetec2022)
 
 
-## Cómo utilizar el proyecto
-Deberás tener las siguientes dependencias instaladas
-Para utilizar el proyecto, debes clonar el repositorio de GitHub y luego deberás tener las siguientes dependencias instaladas:
+## How to use the project
+To use the project, you must clone the GitHub repository and then you must have the following dependencies installed:
 ```
-
 pip install -r requirements.txt
+```
+You can find the requirements.txt file in the root directory of the repository.
+
+After that you should run the following command in the terminal:
 
 ```
-Puedes encontrar el archivo requirements.txt en el directorio raíz del repositorio.
-
-Luego de eso deberás ejecutar el siguiente comando en la terminal:
-
+python main.py
 ```
 
-  python main.py
-
+The web will run on port 8050. You can access the web through the following link:
 ```
-
-La web se ejecutará en el puerto 8050. Puedes acceder a la web a través del siguiente enlace:
-```
-
 http://localhost:8050
-
 ```
-## Datos
+## Data
 
-Los datos utilizados en este proyecto se descargaron del sitio web del gobierno. Puedes encontrar el enlace a los datos en:
+The data used in this project was downloaded from the government website. You can find the link to the data at:
 - [Exceso de mortalidad](http://www.dgis.salud.gob.mx/contenidos/basesdedatos/da_exceso_mortalidad_mexico_gobmx.html)
-### Aviso
-Los datos del proyecto son demasiado grandes para visualizarse en línea. Sin embargo, hay una versión más corta de los datos disponible en el repositorio. Puedes encontrar los datos en el directorio /data
+### Notice
+The project data are too large to be displayed online. However, there is a shorter version of the data available in the repository. You can find the data in the /data directory.
 
 
-## Licencia
-El proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
-
+## License
+The project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
