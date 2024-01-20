@@ -22,9 +22,6 @@ This project is an application of multiple linear regression. The project was cr
 
 The data used in this project was downloaded from the government website. You can find the link to the data at:
 - [Exceso de mortalidad](http://www.dgis.salud.gob.mx/contenidos/basesdedatos/da_exceso_mortalidad_mexico_gobmx.html)
-### Notice
-The project data are too large to be displayed online. However, there is a shorter version of the data available in the repository. You can find the data in the /data directory.
-
 
 ## License
 The project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
