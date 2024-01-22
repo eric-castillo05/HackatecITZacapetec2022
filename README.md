@@ -4,7 +4,7 @@
 This project is an application of multiple linear regression. The project was created for the [HackatecITZacapetec2022] hackathon.
 
 ## Technologies
-- Python 3.6 or higher
+- Python
 - NumPy
 - Pandas
 - Scikit-learn
